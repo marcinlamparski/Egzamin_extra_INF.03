@@ -1,4 +1,4 @@
-# Zbiór zadań JavaScript dla egzaminu INF.03 - WERSJA ŁATWA (Bez odpowiedzi)
+# Zbiór zadań JavaScript dla egzaminu INF.03 - WERSJA BEGINER
 
 ## Instrukcja
 
