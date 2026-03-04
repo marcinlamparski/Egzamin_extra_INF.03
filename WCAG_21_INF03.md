@@ -73,7 +73,7 @@ Treść musi działać z różnymi technologiami — w tym technologiami asystuj
 | Wymaganie | Poziom | Jak spełnić w HTML/CSS? |
 |-----------|--------|------------------------|
 | Tekst alternatywny dla obrazów | A | `<img alt="opis">` |
-| Napisy dla wideo - audiodeskrypcja | A | `<track kind="captions">` |
+| Napisy dla wideo, audiodeskrypcja | A | `<track kind="captions">` |
 | Dostęp z klawiatury | A | Semantyczny HTML (button, a, input) |
 | Brak migania >3 Hz | A | Unikaj animacji błyskających |
 | Tytuł strony | A | `<title>` w każdym dokumencie |
