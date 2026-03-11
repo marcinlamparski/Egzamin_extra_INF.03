@@ -15,4 +15,4 @@
 
 ## JS
 # Przydatne funkcje, wzorce projektowe, przydatne fragmenty kodu
-[Obsługa galerii](https://marcinlamparski.github.io/event_delegation_demo.html))
+[Obsługa galerii] (https://marcinlamparski.github.io/event_delegation_demo.html)
