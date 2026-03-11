@@ -12,3 +12,7 @@
 
 ## CSS
 [Kurs CSS Mirosław Zelent](https://miroslawzelent.pl/kurs-css/)
+
+## JS
+# Przydatne funkcje, wzorce projektowe, przydatne fragmenty kodu
+[Obsługa galerii](https://marcinlamparski.github.io/event_delegation_demo.html))
