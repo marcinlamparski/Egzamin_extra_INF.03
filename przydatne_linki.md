@@ -7,6 +7,8 @@
 
 [Algorytmy - pełen wykład pdf - V Liceum Szczecin](https://pe.szczecin.pl/PEBRFiles/file/INF_Wstep_do_algorytmiki_Makles_VLO.pdf)
 
+[Algorytmy sortujące - przegląd](https://marcinlamparski.github.io/metody-sortowania-inf03.html)
+
 ## HTML
 [Kurs HTML Mirosław Zelent](https://miroslawzelent.pl/kurs-html/)
 
