@@ -1062,4 +1062,4 @@ Kurs obejmuje:
 
 **Powodzenia w nauce i na egzaminie INF.03!**
 
-** miejsce na pliki z ćwiczeń** https://www.dropbox.com/request/nKqQ5eJoI8n2hZ0UJdJB
+** miejsce na pliki z ćwiczeń** https://www.dropbox.com/request/IvIo6UNbKC1tmlpFabkv
