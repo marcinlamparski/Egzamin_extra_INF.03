@@ -9,6 +9,8 @@
 
 [Algorytmy sortujące - przegląd](https://marcinlamparski.github.io/metody-sortowania-inf03.html)
 
+[Algorytmy - złożoność obliczeniowa](https://www.algorytm.edu.pl/matura-informatyka/zlozonosc-algorytmu)
+
 ## HTML
 [Kurs HTML Mirosław Zelent](https://miroslawzelent.pl/kurs-html/)
 
