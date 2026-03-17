@@ -20,3 +20,6 @@
 ## JS
 ### Przydatne funkcje, wzorce projektowe, przydatne fragmenty kodu
 [Obsługa galerii](https://marcinlamparski.github.io/event_delegation_demo.html)
+
+## SQL
+[SQL CheatSheet](https://marcinlamparski.github.io/Interaktywny_Kurs_JavaScript_cz_1.html)             Interaktywny_Kurs_JavaScript_cz_1.html
