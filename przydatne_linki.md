@@ -14,6 +14,8 @@
 ## HTML
 [Kurs HTML Mirosław Zelent](https://miroslawzelent.pl/kurs-html/)
 
+[Tagi semantyczne cheatsheet](https://marcinlamparski.github.io/inf03-semantic-html.html)
+
 ## CSS
 [Kurs CSS Mirosław Zelent](https://miroslawzelent.pl/kurs-css/)
 
