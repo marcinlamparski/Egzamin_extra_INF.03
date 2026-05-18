@@ -22,6 +22,7 @@
 ## JS
 ### Przydatne funkcje, wzorce projektowe, przydatne fragmenty kodu
 [Obsługa galerii](https://marcinlamparski.github.io/event_delegation_demo.html)
+
 [Pasja informatyki - kurs JS](https://www.youtube.com/watch?v=OcwON22ctYc&list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC)
 
 ## SQL
@@ -32,4 +33,5 @@
 
 ## INF.03 przygotowanie
 [Pasja informatyki - Przygotowanie do INF.03 cz.1](https://www.youtube.com/watch?v=qnrmYr9ORhs)
+
 [Pasja informatyki - Przygotowanie do INF.03 cz.2](https://www.youtube.com/watch?v=fTIvW6lbBQk)
