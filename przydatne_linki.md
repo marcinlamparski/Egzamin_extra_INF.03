@@ -37,4 +37,4 @@
 [Pasja informatyki - Przygotowanie do INF.03 cz.2](https://www.youtube.com/watch?v=fTIvW6lbBQk)
 
 ## Grafika na stronie
-[Zadania z egzaminów inf.03 rozwiązanie w GIMP](https://www.youtube.com/watch?v=1wO68P-tVlI&list=PLhbuNY9ASexufyEgY87tLTKuflWApZix8&index=1)
+[Zadania z egzaminów inf.03 rozwiązanie w GIMP](https://www.youtube.com/playlist?list=PLhbuNY9ASexufyEgY87tLTKuflWApZix8)
