@@ -449,6 +449,7 @@ $wynik = mysqli_query($polaczenie, "SELECT * FROM studenci");
         </tr>
         <?php
     }
+mysqli_close($polaczenie);
     ?>
 </table>
 
