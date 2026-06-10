@@ -451,6 +451,8 @@ $wynik = mysqli_query($polaczenie, "SELECT * FROM studenci");
     }
     ?>
 </table>
+
+mysqli_close($polaczenie);
 ```
 
 ## 18. Obsługa Błędów
